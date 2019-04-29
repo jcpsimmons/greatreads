@@ -1,11 +1,5 @@
 # Greatreads
 
-## A no-nonsense way to keep track of your reading habits
-
-### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
-
-## Built with:
-
 ![](https://img.shields.io/badge/Backend_Environment-Node-green.svg)
 ![](https://img.shields.io/badge/Server_Framework-Express-blue.svg)
 ![](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)
@@ -13,6 +7,9 @@
 ![](https://img.shields.io/badge/Front_End-React-blue.svg)
 ![](https://img.shields.io/badge/State_Management-Redux-blueviolet.svg)
 
+## A no-nonsense way to keep track of your reading habits
+
+### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
 
 
 ### Not everything needs to be a social network. 
