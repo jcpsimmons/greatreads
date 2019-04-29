@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/API_Testing-Postman-orange.svg)
 ![](https://img.shields.io/badge/Front_End-React-blue.svg)
 ![](https://img.shields.io/badge/State_Management-Redux-blueviolet.svg)
+![](https://img.shields.io/badge/Deployed_on-Heroku-blueviolet.svg)
 
 ## A no-nonsense way to keep track of your reading habits
 
