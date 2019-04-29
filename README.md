@@ -1,5 +1,10 @@
 # Greatreads :closed_book: :blue_book: :green_book: 
 
+## A no-nonsense way to keep track of your reading habits :books:
+
+
+### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
+
 ![](https://img.shields.io/badge/Backend_Environment-Node-green.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Server_Framework-Express-blue.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg?style=for-the-badge)
@@ -10,24 +15,20 @@
 ![](https://img.shields.io/badge/Deployed_on-Heroku-blueviolet.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Motivated_by-Coffee-critical.svg?style=for-the-badge)
 
-## A no-nonsense way to keep track of your reading habits :books:
 
-### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
-
-
-### Not everything needs to be a social network. :no_good: 
+## Not everything needs to be a social network. :no_good: 
 
 This was the unfortunate evolution that book-logging site Goodreads went through. In order to have a more unbloated way of keeping track of the books I've read, as well as checking in on what my friends might be reading, I created **Greatreads**. 
 
-### Deployment status
+## Deployment status
 
-#### Two ways to play
+### Two ways to play
 
 :white_check_mark: \*As of 4/28/19 an early verion of Goodreads is **live**. I'm currently hosting it on Heroku, so you may need to give it a few seconds to "spin up" on the first visit. You can access it [here](https://tranquil-cove-15629.herokuapp.com/). 
 
 :white_check_mark: You can clone this repo and run the backend server and front end (React) with `npm run dev` in the root directory of the repo. It will run on ports 5000 and 3000 respectively. Doing this won't let you create accounts though. I'm using a web-hosted MongoDB so you'll need to set your own up and configure it using the `keys.js` file in `/config/` (I'm using Heroku environment variables to hide my MongoDB login information from the code...)
 
-### Next Steps
+## Next Steps
 
 - Right now the books aren't showing when you look at a profile page. They're hitting the backend fine but I just need to fix up the React component responsible for showing them. At this point you can still see your own books though.
 - I have a few bits of validation running to check email addresses, text, etc. but need to filter obscenities. I'll probably bring in the npm 'bad-words' library to do this 🤬🤬🤬.
