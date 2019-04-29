@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/State_Management-Redux-blueviolet.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Package_Management-NPM-red.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Deployed_on-Heroku-blueviolet.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Motivated_by-Coffee-critical.svg?style=for-the-badge)
 
 ## A no-nonsense way to keep track of your reading habits
 
