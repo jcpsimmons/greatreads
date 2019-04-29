@@ -38,6 +38,10 @@ This was the unfortunate evolution that book-logging site Goodreads went through
 
 ---
 
+# Captain's Logs :microphone:
+
+---
+
 ## **4/29/2019**
 
 Unfortunately I missed a file in my gitignore that resulted in showing some sensitive information :see_no_evil:. Because of this I had to copy everything to a dummy branch, delete the master branch and force push all of the files back to the master branch. I had about 55 commits before this point... bummer, but better than having sensitive info in my commit history.
