@@ -2,16 +2,18 @@
 
 ## A no-nonsense way to keep track of your reading habits
 
+### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
+
 ## Built with:
 
-|Function|Tech|
-|---|---|
-|Backend Env.|Node|
-|Server Framework|Express|
-|Database|MongoDB|
-|API Testing|Postman|
-|Front End|React|
-|State Management|Redux|
+![](https://img.shields.io/badge/Backend_Environment-Node-green.svg)
+![](https://img.shields.io/badge/Server_Framework-Express-blue.svg)
+![](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)
+![](https://img.shields.io/badge/API_Testing-Postman-orange.svg)
+![](https://img.shields.io/badge/Front_End-React-blue.svg)
+![](https://img.shields.io/badge/State_Management-Redux-blueviolet.svg)
+
+
 
 ### Not everything needs to be a social network. 
 
@@ -21,7 +23,7 @@ This was the unfortunate evolution that book-logging site Goodreads went through
 
 #### Two ways to play
 
-1. As of 4/28/19 an early verion of Goodreads is **live**. I'm currently hosting it on Heroku, so you may need to give it a few seconds to "spin up" on the first visit. You can access it [here](https://tranquil-cove-15629.herokuapp.com/). 
+1. \*As of 4/28/19 an early verion of Goodreads is **live**. I'm currently hosting it on Heroku, so you may need to give it a few seconds to "spin up" on the first visit. You can access it [here](https://tranquil-cove-15629.herokuapp.com/). 
 2. You can clone this repo and run the backend server and front end (React) with `npm run dev` in the root directory of the repo. It will run on ports 5000 and 3000 respectively. Doing this won't let you create accounts though. I'm using a web-hosted MongoDB so you'll need to set your own up and configure it using the `keys.js` file in `/config/` (I'm using Heroku environment variables to hide my MongoDB login information from the code...)
 
 ### Next Steps
