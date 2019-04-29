@@ -1,12 +1,13 @@
 # Greatreads
 
-![](https://img.shields.io/badge/Backend_Environment-Node-green.svg)
-![](https://img.shields.io/badge/Server_Framework-Express-blue.svg)
-![](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg)
-![](https://img.shields.io/badge/API_Testing-Postman-orange.svg)
-![](https://img.shields.io/badge/Front_End-React-blue.svg)
-![](https://img.shields.io/badge/State_Management-Redux-blueviolet.svg)
-![](https://img.shields.io/badge/Deployed_on-Heroku-blueviolet.svg)
+![](https://img.shields.io/badge/Backend_Environment-Node-green.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Server_Framework-Express-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Database-MongoDB-brightgreen.svg?style=for-the-badge)
+![](https://img.shields.io/badge/API_Testing-Postman-orange.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Front_End-React-blue.svg?style=for-the-badge)
+![](https://img.shields.io/badge/State_Management-Redux-blueviolet.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Package_Management-NPM-red.svg?style=for-the-badge)
+![](https://img.shields.io/badge/Deployed_on-Heroku-blueviolet.svg?style=for-the-badge)
 
 ## A no-nonsense way to keep track of your reading habits
 
