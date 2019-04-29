@@ -20,9 +20,9 @@
 
 ---
 
-## Not everything needs to be a social network. :no_good: 
+## Not everything needs to be an invasive social network. :no_good: 
 
-This was the unfortunate evolution that book-logging site Goodreads went through. In order to have a more unbloated way of keeping track of the books I've read, as well as checking in on what my friends might be reading, I created **Greatreads**. 
+This was the unfortunate evolution that book-logging site Goodreads went through. In order to have a more unbloated way of keeping track of the books I've read, as well as checking in on what my friends might be reading, I created **Greatreads**. No posts, no reviews, no friend requests. Use it how you want to. 
 
 ## Deployment status
 
