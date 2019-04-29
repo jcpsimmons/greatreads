@@ -38,9 +38,12 @@ This was the unfortunate evolution that book-logging site Goodreads went through
 
 ---
 
-# Captain's Logs :microphone:
+---
 
 ---
+
+# Captain's Logs :microphone:
+
 
 ## **4/29/2019**
 
