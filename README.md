@@ -1,6 +1,8 @@
-# Greatreads :closed_book: :blue_book: :green_book: 
+![](https://i.imgur.com/9hcTC79.jpg)
 
-## A no-nonsense way to keep track of your reading habits :books:
+# Greatreads
+
+## An opinionated, minimalist way to keep track of your reading! :books:
 
 ### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
 
