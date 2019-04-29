@@ -2,8 +2,9 @@
 
 ## A no-nonsense way to keep track of your reading habits :books:
 
-
 ### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
+
+---
 
 ![](https://img.shields.io/badge/Backend_Environment-Node-green.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Server_Framework-Express-blue.svg?style=for-the-badge)
@@ -15,6 +16,7 @@
 ![](https://img.shields.io/badge/Deployed_on-Heroku-blueviolet.svg?style=for-the-badge)
 ![](https://img.shields.io/badge/Motivated_by-Coffee-critical.svg?style=for-the-badge)
 
+---
 
 ## Not everything needs to be a social network. :no_good: 
 
