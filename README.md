@@ -4,7 +4,7 @@
 
 ## An opinionated, minimalist way to keep track of your reading! :books:
 
-### [Live here!](https://tranquil-cove-15629.herokuapp.com/)\*
+### [Live here!](https://pacific-stream-12395.herokuapp.com/)\*
 
 ---
 
@@ -20,15 +20,15 @@
 
 ---
 
-## Not everything needs to be an invasive social network. :no_good: 
+## Not everything needs to be an invasive social network. :no_good:
 
-This was the unfortunate evolution that book-logging site Goodreads went through. In order to have a more unbloated way of keeping track of the books I've read, as well as checking in on what my friends might be reading, I created **Greatreads**. No posts, no reviews, no friend requests. Use it how you want to. 
+This was the unfortunate evolution that book-logging site Goodreads went through. In order to have a more unbloated way of keeping track of the books I've read, as well as checking in on what my friends might be reading, I created **Greatreads**. No posts, no reviews, no friend requests. Use it how you want to.
 
 ## Deployment status
 
 ### Two ways to play
 
-:white_check_mark: \*As of 4/28/19 an early verion of Goodreads is **live**. I'm currently hosting it on Heroku, so you may need to give it a few seconds to "spin up" on the first visit. You can access it [here](https://tranquil-cove-15629.herokuapp.com/). 
+:white_check_mark: \*As of 4/28/19 an early verion of Goodreads is **live**. I'm currently hosting it on Heroku, so you may need to give it a few seconds to "spin up" on the first visit. You can access it [here](https://tranquil-cove-15629.herokuapp.com/).
 
 :white_check_mark: You can clone this repo and run the backend server and front end (React) with `npm run dev` in the root directory of the repo. It will run on ports 5000 and 3000 respectively. Doing this won't let you create accounts though. I'm using a web-hosted MongoDB so you'll need to set your own up and configure it using the `keys.js` file in `/config/` (I'm using Heroku environment variables to hide my MongoDB login information from the code...)
 
@@ -45,7 +45,6 @@ This was the unfortunate evolution that book-logging site Goodreads went through
 ---
 
 # Captain's Logs :microphone:
-
 
 ## **4/29/2019**
 
