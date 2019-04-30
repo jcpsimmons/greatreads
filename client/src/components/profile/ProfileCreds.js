@@ -19,6 +19,11 @@ class ProfileCreds extends Component {
         <p>
           <strong>ISBN:</strong> {book.isbn}
         </p>
+        <img
+          className="img-fluid"
+          style={{ width: "100px" }}
+          src={`http://covers.openlibrary.org/b/isbn/${book.isbn}-M.jpg`}
+        />
       </li>
     ));
 
