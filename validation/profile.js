@@ -1,5 +1,8 @@
 const Validator = require("validator");
 const isEmpty = require("./is-empty");
+var Filter = require("bad-words");
+
+filter = new Filter();
 
 module.exports = function validateProfileInput(data) {
   let errors = {};
@@ -16,12 +19,24 @@ module.exports = function validateProfileInput(data) {
     errors.handle = "Profile handle is required";
   }
 
+  if (filter.isProfane(data.handle)) {
+    errors.handle = "No profanity allowed";
+  }
+
   if (Validator.isEmpty(data.status)) {
     errors.status = "Status field is required";
   }
 
+  if (filter.isProfane(data.status)) {
+    errors.status = "No profanity allowed";
+  }
+
   if (Validator.isEmpty(data.skills)) {
     errors.skills = "Skills field is required";
+  }
+
+  if (filter.isProfane(data.skills)) {
+    errors.skills = "No profanity allowed";
   }
 
   if (!isEmpty(data.website)) {
